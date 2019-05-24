@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  text-align: center;
+  letter-spacing: 0.1em;
+  margin: 0;
+}
+
+#header {
+  height: 718px;
+  line-height: 50px;
+}
+
+.symboli img {
+  width: 430px;
+  height: 430px;
+}
+
+.vartijat img {
+  width: 400px;
+  height: 300px;
+}
+
+#left {
+  float: left;
+  margin-left: 50px;
+  margin-top: 0;
+}
+
+#right {
+  float: right;
+  margin-right: 50px;
+  margin-top: 0;
+}
+
+
+#kysymys {
+height: 700px;
+background-image: url(background.jpg);
+}
+
+#kysymys h1 {
+  padding-top: 270px;
+  padding-bottom: 50px;
+}
+
+#kysymys a {
+  color: black;
+}
+
+#kysymys a:hover {
+  color: red;
+}
+
+
+
+
+#footer {
+  height: 100px;
+  background-color: #333;
+  padding: 50px 0;
+}
+
+#footer h3 {
+  display: block;
+  color: white;
+}
+
+#footer a {
+  color: white;
+}
+
+#footer a:hover {
+  color: red;
+}
+
+.punishment img {
+  width: 1270px;
+  height: 732px;
+}
+
+#welcome {
+  height: 720px;
+  background-image: url(baby.jpg);
+
+}
